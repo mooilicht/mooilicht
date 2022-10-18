@@ -10,8 +10,8 @@
 
 
 ### 👋 Hi there! 
-I'm front-end developer using React.<br>
-If necessary, I develop back-end using Django or Express. and I develop mobile using React Native.<br>
+I'm React Native developer.<br>
+If necessary, I develop front-end using React and back-end using Django or Express.<br>
 I'm interested in Big Data.
 
 I enjoy pilates, piano and guitar.
