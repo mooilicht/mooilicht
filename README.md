@@ -29,11 +29,10 @@ I enjoy pilates, piano and guitar.
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 </div>
 
-<br>
+<!--
 
 ![mooilicht's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooilicht&show_icons=true&theme=radical)
 
-<!--
 https://simpleicons.org
 
 **mooilicht/mooilicht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
