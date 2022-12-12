@@ -1,8 +1,8 @@
-<a href="https://blog.naver.com/mooilicht" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-FF8800?style=flat-square&logo=Micro.blog&logoColor=white"/>
-</a>
 <a href="https://www.youtube.com/channel/UCamVjjOQezwSi8stGTUI5fA" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+</a>
+<a href="https://blog.naver.com/mooilicht" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-FF8800?style=flat-square&logo=Micro.blog&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/m__o_o__i" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
