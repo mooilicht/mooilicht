@@ -11,7 +11,7 @@
 
 ### 👋 Hi there! 
 I'm front-end developer using React.<br>
-If necessary, I develop back-end using Django or Express and mobile using React Native.<br>
+If necessary, I develop back-end using Django and mobile using Flutter.<br>
 I'm interested in Big Data.
 
 I enjoy pilates, piano and guitar.
@@ -23,10 +23,11 @@ I enjoy pilates, piano and guitar.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  
 </div>
 
 <!--
